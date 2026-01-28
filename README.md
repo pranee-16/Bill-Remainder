@@ -1,8 +1,9 @@
 🔔 Bill Reminder
-Overview
+ 
+                                Overview
 A simple application to track bills and send reminders before due dates, helping users avoid missed payments.
 
-Features
+                                Features
 Add and manage bills
 
 Set due dates and reminders
